@@ -1,7 +1,7 @@
 // import React from 'react'
 
 // const EditCard = (props) => {
-   //come back to fix
+   //come back 
 //   return (
 //     <div style={{
 //       display: 'flex',
