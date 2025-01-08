@@ -1,16 +1,16 @@
-import React from 'react'
+// import React from 'react'
 
-const EditCard = (props) => {
+// const EditCard = (props) => {
 
-  return (
-    <div style={{
-      display: 'flex',
-      justifyContent: 'space-between'
-    }}>
-      <input type="text" />
-      <button>X</button>
-    </div>
-  )
-}
+//   return (
+//     <div style={{
+//       display: 'flex',
+//       justifyContent: 'space-between'
+//     }}>
+//       <input type="text" />
+//       <button>X</button>
+//     </div>
+//   )
+// }
 
-export default EditCard
+// export default EditCard

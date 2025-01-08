@@ -4,7 +4,7 @@ import Tabs from "./components/Tabs"
 import TodoInput from "./components/Todoinput"
 import TodoList from "./components/Todolist"
 import './fanta.css'
-import EditCard from "./components/EditCard"
+// import EditCard from "./components/EditCard"
 
 function App() {
 

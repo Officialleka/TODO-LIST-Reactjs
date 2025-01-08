@@ -1,5 +1,5 @@
 import React from 'react'
-import EditCard from './EditCard'
+// import EditCard from './EditCard'
 
 const TodoCard = (props) => {
   console.log(props)
@@ -25,7 +25,7 @@ const TodoCard = (props) => {
         }>
            <h6>Delete</h6>
         </button>
-        <button onClick={() => {
+        {/* <button onClick={() => {
         }}>
            <h6>Edit</h6>
         </button>
@@ -33,7 +33,7 @@ const TodoCard = (props) => {
         edit={props.edit}
         setEdit={props.setEdit}
         index={props.index}/>
-        }
+        } */}
       </div>
     </div>
   )
