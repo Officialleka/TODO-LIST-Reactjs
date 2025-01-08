@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react"
 import Header from "./components/Header"
 import Tabs from "./components/Tabs"
-import TodoInput from "./components/Todoinput"
 import TodoList from "./components/Todolist"
+import TodoInput from './components/TodoInput'
 import './fanta.css'
 // import EditCard from "./components/EditCard"
 

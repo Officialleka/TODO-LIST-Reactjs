@@ -7,7 +7,7 @@ const TodoInput = (props) => {
 
   return (
    <div className='input-container'>
-     <input type="text" 
+     <input type="text"
       placeholder='Add task'
       value={inputValue}
       onChange={(event) => {
