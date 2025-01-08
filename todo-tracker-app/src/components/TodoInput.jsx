@@ -22,6 +22,7 @@ const TodoInput = (props) => {
       />
 
       <input type="date" 
+      placeholder='Add date'
       value={dateValue}
       onChange={(event) => {
         const {value} = event.target
